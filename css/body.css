@@ -9,3 +9,10 @@
 	min-width: 100%;
 	z-index: -1;
 }
+
+.back-blur {
+	background-size: cover;
+	background-position: center;
+	/*backdrop-filter: blur(100px) brightness(0.2);*/
+	background-blend-mode: soft-light;
+}
