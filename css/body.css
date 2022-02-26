@@ -1,3 +1,7 @@
+body {
+	color: white;
+}
+
 .wallpaper {
 	background-image: url('https://i.ibb.co/N9fHPWk/wallpaper.jpg');
 	filter: blur(2px) brightness(0.4);
