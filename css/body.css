@@ -13,6 +13,10 @@
 .back-blur {
 	background-size: cover;
 	background-position: center;
-	/*backdrop-filter: blur(100px) brightness(0.2);*/
 	background-blend-mode: soft-light;
+}
+
+.img-blur {
+	filter: blur(1px) brightness(0.3);
+	object-fit: cover;
 }
